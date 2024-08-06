@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/irby-project/static/css/main.08300020.css",
+    "main.js": "/irby-project/static/js/main.49c790ad.js",
+    "static/js/453.a627059f.chunk.js": "/irby-project/static/js/453.a627059f.chunk.js",
+    "static/media/IMG_20201030_132732_229 1.png": "/irby-project/static/media/IMG_20201030_132732_229 1.1dedee68bd5d4da95a16.png",
+    "static/media/IMG_20201030_132705_415 1.png": "/irby-project/static/media/IMG_20201030_132705_415 1.9d1bb1d0b2bf08b11ceb.png",
+    "static/media/hadat.png": "/irby-project/static/media/hadat.89d7de4f5c887b5d55fb.png",
+    "static/media/Mask Group.png": "/irby-project/static/media/Mask Group.88bf58322d99dfbb272a.png",
+    "static/media/IMG_20200930_160517_806 1.png": "/irby-project/static/media/IMG_20200930_160517_806 1.9c09fbad5db636cdac97.png",
+    "static/media/ContactUsImg2.png": "/irby-project/static/media/ContactUsImg2.c6a2b7e835250aed67a7.png",
+    "static/media/La Sultane de Saba1.png": "/irby-project/static/media/La Sultane de Saba1.be2055c04fa9b1f3851b.png",
+    "static/media/IMG_20201002_231928_709 1.png": "/irby-project/static/media/IMG_20201002_231928_709 1.2a9de262d6dd83d315bf.png",
+    "static/media/2.png": "/irby-project/static/media/2.dbfc8c1354e196499da3.png",
+    "static/media/La Sultane de Saba.png": "/irby-project/static/media/La Sultane de Saba.6e48a97187b66d2e7b0e.png",
+    "static/media/ContactUsImg1.png": "/irby-project/static/media/ContactUsImg1.fc1db5c844489687c467.png",
+    "static/media/4.png": "/irby-project/static/media/4.b3ce66afabd2f2d95654.png",
+    "static/media/3.png": "/irby-project/static/media/3.1a96b1ff3e0e095a0d3b.png",
+    "static/media/1.png": "/irby-project/static/media/1.5df9ffde928c0e476e53.png",
+    "index.html": "/irby-project/index.html",
+    "static/media/Arrow 2.svg": "/irby-project/static/media/Arrow 2.70c74eee2a70bc558a9fe35a876b15ac.svg",
+    "static/media/Arrow 1.svg": "/irby-project/static/media/Arrow 1.85e22c2aa790e200feccfa157d22889d.svg",
+    "main.08300020.css.map": "/irby-project/static/css/main.08300020.css.map",
+    "main.49c790ad.js.map": "/irby-project/static/js/main.49c790ad.js.map",
+    "453.a627059f.chunk.js.map": "/irby-project/static/js/453.a627059f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08300020.css",
+    "static/js/main.49c790ad.js"
+  ]
+}
