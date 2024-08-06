@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  color: rgba(19, 19, 19, 1);
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: '../src/assets/fonts/Inter-VariableFont_slnt,wght.ttf';
+}
+
+@font-face {
+  font-family: 'Source Serif Pro';
+  src: '../src/assets/fonts/SourceSerifPro-Regular.ttf';
+}
